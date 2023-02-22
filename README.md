@@ -16,9 +16,6 @@ tax_table_eDNA1_18S_pr2_mesocosms_vs_sp.csv - taxonomy table for the mesocosm sa
 
 tax_table_eDNA1_18Sf_invasion_vs_sp.csv - taxonomy table for the invasion water samples. 
 
-
-Once published the following data files will be uploaded:
-
 asv_table_eDNA1_18S_pr2_mesocosms_vs_sp.csv - ASV table for the mesocosm samples. 
 
 Richness_18S_vs_sp.csv - species richness and evenness in the mesocosms including all sampling dates, just those after the invasion and just those on the final sampling date. 
