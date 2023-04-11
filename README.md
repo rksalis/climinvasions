@@ -1,5 +1,5 @@
 # climinvasions
-A repository containing the data and R code for the associated paper titled "Successful invasions to freshwater systems double with climate warming", which is currently under review in Limnology & Oceanography.
+A repository containing the data and R code for the associated paper titled "Successful invasions to freshwater systems double with climate warming", published in Limnology & Oceanography.
 
 Created by Romana K. Salis
 
